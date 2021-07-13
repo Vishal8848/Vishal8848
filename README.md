@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal8848
-- 👀 I’m interested in C, C++, WebDev(HTML 5, CSS 3), Bootstrap 5
-- 🌱 I’m currently learning Bootstrap and JavaScript
+- 👀 I’m interested in C, C++, C#, HTML, CSS, JS, PHP, Bootstrap, .NET
+- 🌱 I’m currently learning ASP.NET MVC and PHP
 - 💞️ I’m looking to collaborate on Web and Desktop Apps
 - 📫 Reach me at vishalpranav156@gmail.com
 
