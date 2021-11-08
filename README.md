@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Vishal8848
-- 👀 I’m interested in C, C++, C#, HTML, CSS, JS, PHP, Bootstrap, .NET
-- 🌱 I’m currently learning ASP.NET MVC and PHP
+- 👋 Hi, I’m @Vishal8848 a MVC Lover
+- 👀 I’m interested in C, C++, PHP, JavaScript
+- 🌱 I’m currently learning Laravel 8, MERN
 - 💞️ I’m looking to collaborate on Web and Desktop Apps
 - 📫 Reach me at vishalpranav156@gmail.com
 
