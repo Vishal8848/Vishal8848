@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vishal8848 a MVC Lover
 - 👀 I’m interested in C, C++, PHP, JavaScript
-- 🌱 I’m currently learning Laravel 8 and React
+- 🌱 I’m currently involving in Laravel 8, React & Firebase
 - 💞️ I’m looking to collaborate on Web and Desktop Apps
 - 📫 Reach me at vishalpranav156@gmail.com
 
