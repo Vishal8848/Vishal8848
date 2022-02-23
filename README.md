@@ -43,7 +43,7 @@
 
 ### :fire: My Stats :
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal8848&fire=red&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal8848&theme=radical)
 
 ![Vishal Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Vishal8848&count_private=true&show_icons=true&theme=radical&hide_rank=false)
 
@@ -53,7 +53,7 @@
 
 <hr />
 
-![Vishal Pranav's github activity graph](https://activity-graph.herokuapp.com/graph?username=Vishal8848&theme=rogue)
+![Vishal Pranav's github activity](https://activity-graph.herokuapp.com/graph?username=Vishal8848&theme=github)
 
 <!---
 Vishal8848/Vishal8848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
