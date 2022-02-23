@@ -53,7 +53,7 @@
 
 <hr />
 
-![Vishal Pranav's github activity](https://activity-graph.herokuapp.com/graph?username=Vishal8848&theme=github)
+![Vishal Pranav's github activity](https://activity-graph.herokuapp.com/graph?username=Vishal8848&bg_color=1f1f1f&color=d1c7d0&line=f4f0f4&point=908e8e&area=true&hide_border=true)
 
 <!---
 Vishal8848/Vishal8848 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
