@@ -4,13 +4,6 @@
 - 💞️ I’m looking to collaborate on Web and Desktop Apps
 - 📫 Reach me at vishalpranav156@gmail.com
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/vishal-pranav-419283190/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Vishal8848&style=flat-square&color=blue" alt="" style="height: 28px"/>
-</div>
-
 <hr/>
 
 ### :hammer_and_wrench: Languages and Tools :
