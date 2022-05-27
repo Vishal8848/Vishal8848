@@ -12,6 +12,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   &nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
@@ -38,7 +39,9 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal8848&theme=radical)
 
+<!--
 ![Vishal Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Vishal8848&count_private=true&show_icons=true&theme=radical&hide_rank=false)
+-->
 
 <hr/>
 
