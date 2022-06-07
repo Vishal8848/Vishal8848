@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vishal8848 a MVC Lover
-- 👀 I’m interested in C++, Python, JavaScript
-- 🌱 I’m currently involving in React & Firebase, Competitive Programming
-- 💞️ I’m looking to collaborate on Web, Mobile Projects and ICPC
+- 👀 I’m interested in C++, Python, Java, JavaScript
+- 🌱 I’m currently involving in Competitive Programming, Java Servlets & JSP
+- 💞️ I’m looking to collaborate on Web, CUI / CLI Apps or Mobile Projects
 - 📫 Reach me at vishalpranav156@gmail.com
 
 <hr/>
