@@ -37,14 +37,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishal8848&theme=radical)
 
-<!--
-![Vishal Pranav's github stats](https://github-readme-stats.vercel.app/api?username=Vishal8848&count_private=true&show_icons=true&theme=radical&hide_rank=false)
--->
-
-<hr/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishal8848&langs_count=8&hide=Hack&exclude_repo=mcmAdapt&layout=compact&theme=radical)
-
 <hr />
 
 ![Vishal Pranav's github activity](https://activity-graph.herokuapp.com/graph?username=Vishal8848&bg_color=1f1f1f&color=d1c7d0&line=f4f0f4&point=908e8e&area=true&hide_border=true)
